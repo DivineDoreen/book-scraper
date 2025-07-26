@@ -23,3 +23,6 @@ A web application that scrapes book data (names, prices, categories) from [books
    ```bash
    git clone https://github.com/DivineDoreen/book-scraper.git
    cd book-scraper
+
+
+My name: Doreen Soala Ogan
